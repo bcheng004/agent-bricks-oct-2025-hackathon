@@ -1,6 +1,6 @@
 # Databricks DNB AI Agent Bricks and Databricks Apps Hackathon – Register Now!
 - Join us for the Databricks AI Hackathon —an opportunity to build, explore Agent Bricks, and level up your skills with Databricks. Open to all skill levels!
-- Date: Oct 9th, 2025 | Time: 9:00 AM – 2:45 PM PST
+- Date: Oct 8th, 2025 | Time: 9:00 AM – 2:45 PM PST
 - What to Expect:
   - Live Enablement Session from DNB SA
   - Overview of important roadmap updates for Agent Bricks and Databricks Apps from Product Team
